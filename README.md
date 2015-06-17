@@ -20,7 +20,7 @@
   "user": {
     "id": 1,
     "email": "test@email.com",
-    "access_token": "df056de23a36da1b526edabd46aee4a4"
+    "access_token": "cf056d433a36da1b52667ab896aee4a4"
   }
 }
 	``` 
