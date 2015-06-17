@@ -48,5 +48,7 @@ end
 group :production do 
 	# Used to delpoy with heroku
 	gem 'rails_12factor'
+
+	gem 'rack-cors', require: 'rack/cors'
 end
 
